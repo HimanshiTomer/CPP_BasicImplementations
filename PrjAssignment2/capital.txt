@@ -1,0 +1,27 @@
+Total numbers of capital characters:- 26
+(AI)
+AI
+AI
+GOOGLE,
+MICROSOFT,
+IBM
+(DL)
+NETFLIX
+YOUTUBE.
+SAS.
+SVM
+JAVA,
+C++,
+AI
+AI,
+CEO
+AI
+AI
+(NLP)
+(RL)
+AI
+AI
+AI
+AI
+US
+AI
